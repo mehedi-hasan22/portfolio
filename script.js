@@ -1,0 +1,1 @@
+alert("if you visiting with a phone, please rotate it for a better experience!");

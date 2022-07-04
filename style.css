@@ -23,6 +23,7 @@ h1 {
 
 .half img {
     width: 80%;
+    height: auto;
 }
 
 .link {
