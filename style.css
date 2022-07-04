@@ -7,7 +7,7 @@ h1 {
     font-size: 50px;
 }
 
-#span-color {
+.color {
     color: orange;
 }
 
@@ -30,7 +30,7 @@ h1 {
     background-image: linear-gradient(orange, red);
     padding: 10px 40px;
     font-weight: 700;
-    border-radius: 5px;
+    border-radius: 6px;
     color: white;
 }
 
@@ -43,4 +43,33 @@ h1 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.experience-item {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 20px;
+    padding-right: 6px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    text-align: justify;
+}
+
+.Experience {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#fullstack {
+    border-left: 7px solid tomato;
+}
+
+#baby {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+    font-weight: lighter;
 }
